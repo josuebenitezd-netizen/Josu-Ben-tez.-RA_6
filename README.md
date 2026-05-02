@@ -1,4 +1,4 @@
-# Proyecto: Consumo de una api
+# Nombre del proyecto: Consumo de una api
 
 ## Descripción: 
 Mi pagina web consiste en un portafolio personal.
